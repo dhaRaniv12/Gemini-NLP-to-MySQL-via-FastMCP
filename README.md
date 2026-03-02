@@ -15,7 +15,7 @@ step-by-step learning.
 
 # 📂 Project Structure
 
-    FastAPI/
+    Gemini-NLP-to-MySQL-via-FastMCP-main
 
     ├── Method_1_Calling_Func_Same_File/
     │   └── function_call_1.py
