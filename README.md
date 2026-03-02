@@ -49,8 +49,8 @@ step-by-step learning.
 ## 1️⃣ Clone the repository
 
 ``` bash
-git clone <repo_url>
-cd Function_Call_2_LLM_Call
+git clone https://github.com/dhaRaniv12/Gemini-NLP-to-MySQL-via-FastMCP.git
+cd Gemini-NLP-to-MySQL-via-FastMCP-main
 ```
 
 ------------------------------------------------------------------------
